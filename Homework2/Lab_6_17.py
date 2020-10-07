@@ -1,6 +1,6 @@
-simplepassword = input()
+simppassword = input()
 password=''
-for x in simplepassword:
+for x in simppassword:
     if(x == 'i'):
         password += "!"
     elif(x == 'a'):
