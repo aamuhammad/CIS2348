@@ -3,4 +3,6 @@
 
 print('Birthday Calculator')
 print('Current Day')
+num = 1
+
 
